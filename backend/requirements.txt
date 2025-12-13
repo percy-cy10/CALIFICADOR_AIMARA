@@ -1,0 +1,14 @@
+# Framework
+fastapi==0.115.1
+uvicorn[standard]==0.23.2
+websockets==11.0.3
+
+# Audio y reconocimiento de voz
+SpeechRecognition==3.12.0
+pydub==0.25.1
+
+# Similitud de texto
+rapidfuzz==2.14.0
+
+# Opcionales
+python-multipart==0.0.6   # Para manejar formularios con archivos
