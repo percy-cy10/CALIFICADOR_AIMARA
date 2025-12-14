@@ -138,15 +138,15 @@ async def evaluate_audio(word_id: int = Form(...), audio: UploadFile = File(...)
         if not audio_bytes:
             raise HTTPException(status_code=400, detail="Archivo de audio vacío")
 
-        input_format = _guess_audio_format(audio.filename, audio.content_type)
-
-
-        # pydub necesita ffmpeg para mp3/m4a/ogg/webm, etc.
-        audio_segment = AudioSegment.from_file(io.BytesIO(audio_bytes), format=input_format)
+        audio_segment = AudioSegment.from_file(
+            io.BytesIO(audio_bytes),
+            format="webm"  # 🔥 CLAVE
+        )
 
         wav_buffer = io.BytesIO()
         audio_segment.export(wav_buffer, format="wav")
         wav_buffer.seek(0)
+
 
         recognizer = sr.Recognizer()
         with sr.AudioFile(wav_buffer) as source:
