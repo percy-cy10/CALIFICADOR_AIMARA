@@ -26,11 +26,7 @@
         { "id": 15, "spanish": "blanco", "aymara": "Jancu" },
         { "id": 16, "spanish": "negro", "aymara": "Chiyara" },
         { "id": 17, "spanish": "amarillo", "aymara": "Quillu" },
-        { "id": 18, "spanish": "azul", "aymara": "Larama" },
-        { "id": 19, "spanish": "plomo", "aymara": "Uqui" },
-        { "id": 20, "spanish": "café", "aymara": "Chumpi" },
-        { "id": 21, "spanish": "gris", "aymara": "Chiji" },
-        { "id": 22, "spanish": "verde", "aymara": "Chucña" }
+        { "id": 18, "spanish": "azul", "aymara": "Larama" }
       ]
     },
     {
