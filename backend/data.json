@@ -1,0 +1,104 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Saludos",
+      "words": [
+        { "id": 1, "spanish": "¿Cómo estás? / ¿Cómo está usted?", "aymara": "¿Kamisaraki?" },
+        { "id": 2, "spanish": "estoy bien", "aymara": "Walikisthwa" },
+        { "id": 3, "spanish": "¿Cómo están?", "aymara": "¿Kunjamastasa?" },
+        { "id": 4, "spanish": "tú / usted", "aymara": "¿Jumasti?" },
+        { "id": 5, "spanish": "bien", "aymara": "Waliki" },
+        { "id": 6, "spanish": "hasta volver a encontrarnos", "aymara": "Jakisinkama" },
+        { "id": 7, "spanish": "hasta mañana", "aymara": "Qharürkama" },
+        { "id": 8, "spanish": "entonces me iré", "aymara": "Ukhamax sarxä" },
+        { "id": 9, "spanish": "buenos días", "aymara": "Aski alwakipana" },
+        { "id": 10, "spanish": "buenas noches", "aymara": "Aski Arumakipan" },
+        { "id": 11, "spanish": "buenas tardes", "aymara": "Aski Jayp´ukypan" },
+        { "id": 12, "spanish": "vamos / ir", "aymara": "Sarañani" },
+        { "id": 13, "spanish": "gracias", "aymara": "Pay suma" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Colores",
+      "words": [
+        { "id": 14, "spanish": "rojo", "aymara": "Chupika" },
+        { "id": 15, "spanish": "blanco", "aymara": "Janq´u" },
+        { "id": 16, "spanish": "negro", "aymara": "Ch´iyara" },
+        { "id": 17, "spanish": "amarillo", "aymara": "Q´illu" },
+        { "id": 18, "spanish": "verde", "aymara": "Ch´uxña" },
+        { "id": 19, "spanish": "gris", "aymara": "Ch´ixi" },
+        { "id": 20, "spanish": "azul", "aymara": "Larama" },
+        { "id": 21, "spanish": "plomo", "aymara": "Uqi" },
+        { "id": 22, "spanish": "café", "aymara": "Ch´umphi" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Números",
+      "words": [
+        { "id": 23, "spanish": "1", "aymara": "Maya" },
+        { "id": 24, "spanish": "2", "aymara": "Paya" },
+        { "id": 25, "spanish": "3", "aymara": "Kimsa" },
+        { "id": 26, "spanish": "4", "aymara": "Pusi" },
+        { "id": 27, "spanish": "5", "aymara": "Phisqa" },
+        { "id": 28, "spanish": "6", "aymara": "Suxta" },
+        { "id": 29, "spanish": "7", "aymara": "Paqallqu" },
+        { "id": 30, "spanish": "8", "aymara": "Kimsaqallqu" },
+        { "id": 31, "spanish": "9", "aymara": "llätunka" },
+        { "id": 32, "spanish": "10", "aymara": "Tunka" },
+        { "id": 33, "spanish": "20", "aymara": "pätunka" },
+        { "id": 34, "spanish": "30", "aymara": "Kimsa tunka" },
+        { "id": 35, "spanish": "40", "aymara": "Pusi tunka" },
+        { "id": 36, "spanish": "50", "aymara": "Phisqa tunka" },
+        { "id": 37, "spanish": "60", "aymara": "Suxta tunka" },
+        { "id": 38, "spanish": "70", "aymara": "Paqallqtunka" },
+        { "id": 39, "spanish": "80", "aymara": "Kimsaqallq tunka" },
+        { "id": 40, "spanish": "90", "aymara": "Llatunk tunka" },
+        { "id": 41, "spanish": "100", "aymara": "Pataka" },
+        { "id": 42, "spanish": "1000", "aymara": "Waranqa" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Animales",
+      "words": [
+        { "id": 43, "spanish": "perro", "aymara": "Anu" },
+        { "id": 44, "spanish": "gato", "aymara": "Phisi" },
+        { "id": 45, "spanish": "conejo", "aymara": "Wank´u" },
+        { "id": 46, "spanish": "cerdo / chancho", "aymara": "Khuchhi" },
+        { "id": 47, "spanish": "zorro", "aymara": "Qamaqi" },
+        { "id": 48, "spanish": "llama", "aymara": "Qawra" },
+        { "id": 49, "spanish": "vaca", "aymara": "Waca" },
+        { "id": 50, "spanish": "cóndor", "aymara": "Mallku" },
+        { "id": 51, "spanish": "oveja", "aymara": "Uwija" },
+        { "id": 52, "spanish": "cernícalo", "aymara": "K´illi k´illi" },
+        { "id": 53, "spanish": "alpaca", "aymara": "Allpachu" },
+        { "id": 54, "spanish": "ratón", "aymara": "Achaku" },
+        { "id": 55, "spanish": "vicuña", "aymara": "Wari" },
+        { "id": 56, "spanish": "burro", "aymara": "Asnu" },
+        { "id": 57, "spanish": "búho", "aymara": "Juku" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Alimentos",
+      "words": [
+        { "id": 58, "spanish": "carne", "aymara": "Aycha" },
+        { "id": 59, "spanish": "arroz", "aymara": "Arusa" },
+        { "id": 60, "spanish": "huevo", "aymara": "k´awna" },
+        { "id": 61, "spanish": "leche", "aymara": "millk´i" },
+        { "id": 62, "spanish": "harina", "aymara": "jak´u" },
+        { "id": 63, "spanish": "pescado", "aymara": "challwa" },
+        { "id": 64, "spanish": "chuño", "aymara": "ch´uñu" },
+        { "id": 65, "spanish": "quinua", "aymara": "jiwra" },
+        { "id": 66, "spanish": "azúcar", "aymara": "asukara" },
+        { "id": 67, "spanish": "sal", "aymara": "jayu" },
+        { "id": 68, "spanish": "pan", "aymara": "t´ant´a" },
+        { "id": 69, "spanish": "agua", "aymara": "uma" },
+        { "id": 70, "spanish": "papa", "aymara": "ch´uqi" }
+      ]
+    }
+  ]
+}
