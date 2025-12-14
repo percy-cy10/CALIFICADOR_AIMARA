@@ -18,8 +18,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-AudioSegment.converter = r"C:\ffmpeg\bin\ffmpeg.exe"
-AudioSegment.ffprobe = r"C:\ffmpeg\bin\ffprobe.exe"
+#AudioSegment.converter = r"C:\ffmpeg\bin\ffmpeg.exe"
+#AudioSegment.ffprobe = r"C:\ffmpeg\bin\ffprobe.exe"
 
 def normalize_text(text: str) -> str:
     text = text.lower().strip()
@@ -43,6 +43,14 @@ def calcular_fonetico_score(p1: str, p2: str) -> int:
             for l in g: p = p.replace(l, s[0])
         return p
     return int(SequenceMatcher(None, nf(p1), nf(p2)).ratio()*100)
+
+@app.get("/test")
+def health():
+    return {
+        "ok": True,
+        "service": "aymara_api",
+
+}
 
 @app.get("/word")
 def word():
