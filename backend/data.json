@@ -4,7 +4,6 @@
       "id": 1,
       "name": "Saludos",
       "words": [
-        { "id": 1, "spanish": "¿Cómo estás? / ¿Cómo está usted?", "aymara": "¿Kamisaraki?" },
         { "id": 2, "spanish": "estoy bien", "aymara": "Walikisthwa" },
         { "id": 3, "spanish": "¿Cómo están?", "aymara": "¿Kunjamastasa?" },
         { "id": 4, "spanish": "tú / usted", "aymara": "¿Jumasti?" },
@@ -23,20 +22,20 @@
       "id": 2,
       "name": "Colores",
       "words": [
-        { "id": 14, "spanish": "rojo", "aymara": "Chupika" },
-        { "id": 15, "spanish": "blanco", "aymara": "Janq´u" },
-        { "id": 16, "spanish": "negro", "aymara": "Ch´iyara" },
-        { "id": 17, "spanish": "amarillo", "aymara": "Q´illu" },
-        { "id": 18, "spanish": "verde", "aymara": "Ch´uxña" },
-        { "id": 19, "spanish": "gris", "aymara": "Ch´ixi" },
-        { "id": 20, "spanish": "azul", "aymara": "Larama" },
-        { "id": 21, "spanish": "plomo", "aymara": "Uqi" },
-        { "id": 22, "spanish": "café", "aymara": "Ch´umphi" }
+        { "id": 14, "spanish": "rojo", "aymara": "Chupica" },
+        { "id": 15, "spanish": "blanco", "aymara": "Jancu" },
+        { "id": 16, "spanish": "negro", "aymara": "Chiyara" },
+        { "id": 17, "spanish": "amarillo", "aymara": "Quillu" },
+        { "id": 18, "spanish": "azul", "aymara": "Larama" },
+        { "id": 19, "spanish": "plomo", "aymara": "Uqui" },
+        { "id": 20, "spanish": "café", "aymara": "Chumpi" },
+        { "id": 21, "spanish": "gris", "aymara": "Chiji" },
+        { "id": 22, "spanish": "verde", "aymara": "Chucña" }
       ]
     },
     {
       "id": 3,
-      "name": "Números",
+      "name": "Numeros",
       "words": [
         { "id": 23, "spanish": "1", "aymara": "Maya" },
         { "id": 24, "spanish": "2", "aymara": "Paya" },
